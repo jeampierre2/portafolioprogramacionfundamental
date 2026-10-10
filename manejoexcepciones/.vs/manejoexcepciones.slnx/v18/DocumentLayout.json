@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\progr\\programcionfundamental\\portafolioprogramacionfundamental\\manejoexcepciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88854E3A-2529-4353-950D-71F888AC1D7C}|manejoexcepciones\\manejoexcepciones.csproj|c:\\users\\unifranz-fexco\\desktop\\progr\\programcionfundamental\\portafolioprogramacionfundamental\\manejoexcepciones\\manejoexcepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88854E3A-2529-4353-950D-71F888AC1D7C}|manejoexcepciones\\manejoexcepciones.csproj|solutionrelative:manejoexcepciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\progr\\programcionfundamental\\portafolioprogramacionfundamental\\manejoexcepciones\\manejoexcepciones\\Program.cs",
+              "RelativeDocumentMoniker": "manejoexcepciones\\Program.cs",
+              "ToolTip": "C:\\Users\\UNIFRANZ-FEXCO\\Desktop\\progr\\programcionfundamental\\portafolioprogramacionfundamental\\manejoexcepciones\\manejoexcepciones\\Program.cs",
+              "RelativeToolTip": "manejoexcepciones\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T15:02:43.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

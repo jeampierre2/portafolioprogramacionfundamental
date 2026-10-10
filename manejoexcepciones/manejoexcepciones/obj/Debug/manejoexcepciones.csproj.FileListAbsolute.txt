@@ -1,0 +1,7 @@
+C:\Users\UNIFRANZ-FEXCO\Desktop\progr\programcionfundamental\portafolioprogramacionfundamental\manejoexcepciones\manejoexcepciones\bin\Debug\manejoexcepciones.exe.config
+C:\Users\UNIFRANZ-FEXCO\Desktop\progr\programcionfundamental\portafolioprogramacionfundamental\manejoexcepciones\manejoexcepciones\bin\Debug\manejoexcepciones.exe
+C:\Users\UNIFRANZ-FEXCO\Desktop\progr\programcionfundamental\portafolioprogramacionfundamental\manejoexcepciones\manejoexcepciones\bin\Debug\manejoexcepciones.pdb
+C:\Users\UNIFRANZ-FEXCO\Desktop\progr\programcionfundamental\portafolioprogramacionfundamental\manejoexcepciones\manejoexcepciones\obj\Debug\manejoexcepciones.csproj.AssemblyReference.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\progr\programcionfundamental\portafolioprogramacionfundamental\manejoexcepciones\manejoexcepciones\obj\Debug\manejoexcepciones.csproj.CoreCompileInputs.cache
+C:\Users\UNIFRANZ-FEXCO\Desktop\progr\programcionfundamental\portafolioprogramacionfundamental\manejoexcepciones\manejoexcepciones\obj\Debug\manejoexcepciones.exe
+C:\Users\UNIFRANZ-FEXCO\Desktop\progr\programcionfundamental\portafolioprogramacionfundamental\manejoexcepciones\manejoexcepciones\obj\Debug\manejoexcepciones.pdb
